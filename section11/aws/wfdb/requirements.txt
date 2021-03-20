@@ -33,7 +33,7 @@ Flask-WTF==0.13.1
 ipython==5.1.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 kombu==4.0.0
 MarkupSafe==0.23
