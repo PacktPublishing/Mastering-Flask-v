@@ -7,7 +7,7 @@ billiard==3.5.0.2
 blessed==1.9.5
 blinker==1.4
 botocore==1.4.78
-celery==4.0.0
+celery==5.2.2
 cement==2.8.2
 click==6.6
 colorama==0.3.7
