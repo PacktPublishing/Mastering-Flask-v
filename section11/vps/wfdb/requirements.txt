@@ -22,7 +22,7 @@ Flask-Script==2.0.5
 Flask-SQLAlchemy==2.1
 Flask-WTF==0.13.1
 gunicorn==19.6.0
-ipython==5.1.0
+ipython==8.10.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
 Jinja2==2.8
